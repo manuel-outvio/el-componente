@@ -1,0 +1,12 @@
+{
+  "name": "@manuel-outvio/el-componente",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
